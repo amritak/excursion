@@ -14,3 +14,12 @@ body {
     background-color: black;
     color: white;
 }
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+video {
+    object-fit: contain;
+}
